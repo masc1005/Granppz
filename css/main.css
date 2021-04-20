@@ -1,0 +1,73 @@
+body{
+    margin: 0 auto;
+    padding: 0 auto;
+    background-size: cover;
+}
+.home{
+    background-color: snow;
+    opacity: 80%;
+}
+.form-login form{
+    background-color: snow;
+    opacity: 80%;
+    height: auto;
+    width: auto;
+    padding: 30px;
+    border-radius: 20px;
+}
+a{
+    text-decoration: none;
+    color: #303030;
+}
+.log-home a{
+    padding: 30px;
+    margin-top: 20px;
+    font-size: 30px;
+}
+.cad-form form{
+    background-color: snow;
+    opacity: 80%;
+    height: auto;
+    width: auto;
+    padding: 30px;
+    border-radius: 20px;
+}
+.carou-home h5{
+    font-size: 45px;
+}
+.form-home-1 {
+    background-color: snow;
+    height: 360px;
+    width: 100%;
+}
+.form-home-1 p{
+    margin-left: 10px;
+    text-align: justify;
+}
+.form-home-2 {
+    background-color: #303030;
+    height: 360px;
+    width: 100%;
+}
+.form-home-3 {
+    background-color: snow;
+    height: 360px;
+    width: 100%;
+}
+.texto-c{
+    background-color: rgba(48, 48, 48, 0.9);
+    width: 300px;
+    border-radius: 20px;
+}
+.mod1{
+    margin-left: 17%;
+}
+.input_titulo_feed textarea{
+    height: 45px;
+}
+.user{
+    margin-left: 80px;
+}
+.rigth_feed{
+    background-color: #303030;
+}
